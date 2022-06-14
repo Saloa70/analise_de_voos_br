@@ -44,20 +44,6 @@ Na fase de tratamento dos dados foram explorados alguns pilares:
 
 ### Conhecendo os Dados
 
-__Quantidade de Voos x Data de Previsão de Partida__
-
-
-<br> __Quantidade de Voos x Data de Previsão de Partida (MÊS)__
-
-
-
-__
-
-<br> __Quebra por Ano/mês - Evolução__
-
-<br> __Quais as Origens mais Frequentes ?__
-
-
 
 <br> __Quais são os aeroportos de origem que tem mais voos?__
 
@@ -87,12 +73,11 @@ Tabela do TOP 20 aeroportos de origem.
 | Governador Aluizio Alves                         | 25265              | 994        | 76.370      |
 
 
-<br> __Qual o Tipo de Voo mais Utilizado ?__
+## Sintexe
 
+Neste trabalho, mostramos alguns aspectos importantes deste DataSet, onde uma análise mais apurada pode ser feita no arquivo em anexo.
 
-
-<br> __Top 10 das Companhias Áereas que mais Voaram entre 2016 & 2017__
-
+Alexandre Almeida
 
 
 
